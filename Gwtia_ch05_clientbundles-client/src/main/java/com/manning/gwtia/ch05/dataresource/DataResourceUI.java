@@ -23,6 +23,7 @@ public class DataResourceUI extends Composite {
 
 	@UiField
 	DataResources res;
+	
 	@UiField
 	Button docButton;
 
