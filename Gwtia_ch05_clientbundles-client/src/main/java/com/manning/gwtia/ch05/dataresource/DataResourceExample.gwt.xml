@@ -14,5 +14,4 @@
   <set-property name="locale" value="en"/>
   -->
  	<public path="dataresource/public"/>
-	<stylesheet src="DataResourceUI.css"/>
 </module>

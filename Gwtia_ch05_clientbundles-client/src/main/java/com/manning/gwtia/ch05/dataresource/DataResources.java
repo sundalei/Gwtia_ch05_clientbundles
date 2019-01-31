@@ -7,6 +7,7 @@ import com.google.gwt.resources.client.DataResource.DoNotEmbed;
 import com.google.gwt.resources.client.DataResource.MimeType;
 
 public interface DataResources extends ClientBundle {
+	
 	DataResources IMPL = (DataResources) GWT.create(DataResources.class);
 
 	@Source("BigPhoto.jpg")
